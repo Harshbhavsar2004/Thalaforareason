@@ -151,6 +151,15 @@ button:hover {
         flex-direction: column;
         gap: 10px; 
     }
+    .word{
+    position: relative;
+    padding-right: 30px;
+    left: -20px;
+}
+.check{
+    position: relative;
+    left: 63px;
+}
 
 }
 
